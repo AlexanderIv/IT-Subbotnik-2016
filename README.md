@@ -19,7 +19,7 @@ cd .\web-app\bin\Debug\netcoreapp1.0\publish\
 далее запускаем сайт:<br>
 dotnet web-app.dll
 
-в приложении есть 2 страницы
+в приложении есть 2 страницы<br>
 http://localhost:5000/home/standardapp<br>
 http://localhost:5000/home/index<br>
 
