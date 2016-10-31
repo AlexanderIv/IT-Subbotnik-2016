@@ -1,0 +1,10 @@
+## Ignore files
+
+**/.vscode/
+**/.vs/
+**/*.user
+**/node_modules/
+**/obj/
+**/bin/
+**/*.lock.json
+web-app/wwwroot/**/*

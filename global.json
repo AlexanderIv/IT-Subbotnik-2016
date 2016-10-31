@@ -1,0 +1,11 @@
+{
+    "projects": [
+        "data-access",
+        "domain",
+        "data-access-stub",
+        "web-app"
+    ],
+    "sdk": {
+        "version": "1.0.0-preview2-003133"
+    }
+}
